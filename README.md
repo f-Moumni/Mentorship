@@ -1,4 +1,4 @@
-![](img/img.png)
+![](img/fs.png)
 Identify the customer's needs to design the application - FuzeScrum
 ---------
 ## Technical:
